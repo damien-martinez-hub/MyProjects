@@ -1,7 +1,7 @@
 # MyProjects
 Ce répertoire résume les compétences et projets disponibles que j'ai réalisé:
 
-** Projet Uni-Coiffure: Réaliser un site Web dynamique à l'aide de connaissances en HTML5, Javascript, CSS et PHP (en cours de réalisation et en solo).
+** Projet Uni-Coiffure: Réaliser un site Web dynamique à l'aide de connaissances en HTML5, Javascript, CSS et PHP (en cours de réalisation).
 
 ** Projet JIT: L'objectif de ce projet est de fournir a GLISS la capacite de generer un simulateur JIT (processeurs hotes x86 ou ARM),
 en profitant des services deja fournis par GLISS et des proprietes constantes de chaque instruction en memoire. 
