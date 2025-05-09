@@ -1,5 +1,5 @@
 # MyProjects
-Ce répertoire résume les compétences et projets disponibles que j'ai réalisé:
+Ce répertoire résume les compétences et projets disponibles que j'ai réalisé au cours de l'année 2025:
 
 ** Projet Uni-Coiffure: Réaliser un site Web dynamique à l'aide de connaissances en HTML5, Javascript, CSS et PHP (en cours de réalisation).
 
